@@ -10,11 +10,8 @@ Key questions this project attempts to answer include:
 5. What types of artworks are more likely to be exhibited vs. kept in storage?
 6. How can close analysis of museum data inform the educational value of its collections?
 In turn, how do educational narratives affect how curators and guests perceive the collections?
-
 7. This project also discusses the importance of and growing calls for 
-decolonization of museums and repatriation of artifacts. The Met in particular
-has been embroiled in considerable scandal recently, bringing the serious issue
-of stolen and illegally acquired antiquities into stark relief.
+decolonization of museums and repatriation of artifacts. 
 
 
 Sources: 
